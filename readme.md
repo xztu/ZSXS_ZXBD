@@ -31,8 +31,7 @@ X: 版本号, Y: 修订号, Z: 迭代次数
 <br>`AGPLv3中文版` [GNU通用公共授权第三版 (非官方中文简体翻译版)](https://github.com/ShadowWaIker/zsxs/blob/master/License_Zh)
 
 # 特别鸣谢 #
-> SUI Mobile *[http://m.sui.taobao.org/components/]*
-<br> Zebra Tables 
+> 无
 
 # <img src="http://www.rebeta.cn/favicon.ico" alt="LOGO" width="23px"> Rebeta *[ Rebeta Co.,Ltd. ]* #
 > 中国 · 内蒙古 *[ Nei Monggol · China ]*
